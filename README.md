@@ -14,16 +14,15 @@ This project was developed with the following technologies | Esse projeto foi de
 
 ## How to execute | Como executar 
 
-- Clone the repository
-- Run `yarn` to download the dependencies 
-- Run `yarn typeorm migration:run` to create the database tables
-- Run `yarn dev` to startup the app
+- Clone the repository.
+- Run `yarn` to download the dependencies .
+- Run `yarn typeorm migration:run` to create the database tables.
+- Run `yarn dev` to startup the app.
 
 The app will be avaliable on `http://localhost:3000`
 
-----
-- Clone o repositório
-- Rode `yarn` para baixar as dependências
+- Clone o repositório.
+- Rode `yarn` para baixar as dependências.
 - Rode `yarn typeorm migration:run` para criar as tabelas do banco de dados.
 - Rode o `yarn dev` para iniciar a aplicação.
 
